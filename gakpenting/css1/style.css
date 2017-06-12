@@ -1,0 +1,16 @@
+.service
+{
+	padding:60px 0px;
+}
+center
+{
+	height:200px;
+	overflow:hidden;
+}
+.navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+.form-group{
+	margin-right: 50%;
+}
